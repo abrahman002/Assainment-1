@@ -135,12 +135,14 @@ ul li {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     padding: 20px;
     text-align: left;
+    border-radius: 5px;
 }
 
 .blog1 img {
     width: 300px;
     height: 250px;
     margin-bottom: 10px;
+    border-radius: 5px;
 }
 
 .blog-title {
