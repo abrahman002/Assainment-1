@@ -1,0 +1,249 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans';
+}
+
+/* Header Section */
+
+.head {
+    background: url(../images/banner/banner3.png);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: right;
+}
+
+.head-info {
+    padding: 200px 150px;
+}
+
+.head-title {
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.head-text {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    padding: 20px 25px;
+    border-radius: 5px;
+    border: 0;
+} /* Header Section End*/
+
+/* Main Section */
+
+.main-section {
+    display: flex;
+    padding: 130px 150px;
+    gap: 50px;
+}
+
+.section-info {
+    margin-top: 300px;
+}
+
+.section-title {
+    font-weight: 800;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 25px;
+}
+
+.section-text {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 25px;
+}
+
+ul li {
+    list-style: none;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+
+}
+
+.fa-solid {
+    color: #16D887;
+    padding-right: 14px;
+}  /* Main Section End */
+
+/* my-plan-section */
+
+.My-Plans {
+    text-align: center;
+}
+
+.my-plan-info {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 55px;
+}
+
+.my-plan-info img {
+    height: 60px;
+    width: 60px;
+    margin-bottom: 10px;
+}
+
+.my-plan-title {
+    font-weight: 700;
+    font-size: 20px;
+    color: #151414;
+    margin-bottom: 10px;
+}
+
+.my-plan-text {
+    font-weight: 500;
+    font-size: 18px;
+    color: #737272;
+}  /* my-plan-section End */
+
+/* my-blog section */
+
+.my-blog {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.blog {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+
+}
+
+.blog1 {
+    width: 300px;
+    height: 350px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+    text-align: left;
+}
+
+.blog1 img {
+    width: 300px;
+    height: 250px;
+    margin-bottom: 10px;
+}
+
+.blog-title {
+    font-weight: 700;
+    font-size: 20px;
+    color: #151414;
+    margin-bottom: 10px;
+}
+
+.blog-text {
+    font-weight: 500;
+    font-size: 18px;
+    color: #737272;
+} /* my-blog sectionend */
+
+/* Contact section */
+
+.contact {
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 10%;
+    margin-top: 100px;
+    height: 200px;
+    width: 80%;
+    margin-bottom: 130px;
+    border-radius: 5px;
+
+}
+
+.contact-title {
+    font-weight: 700;
+    font-size: 30px;
+    color: #FFFFFF;
+    padding: 30px 0px 0px 40px;
+}
+
+.btn-primary-second{
+    
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    border-radius: 5px;
+    border: 0;
+    margin-left: 40px;
+    margin-top: 20px;
+    height: 50px;
+    padding: 0 20px;
+} /* Contact section End */
+
+/* Footer section */
+
+.footer {
+    display: flex;
+    background: #151414;
+    padding: 100px;
+    gap: 330px;
+}
+
+.Future img {
+    margin-left: 20px;
+}
+
+.future-tile {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-bottom: 20px;
+}
+
+.future-text {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.subscribe-tile {
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.Subscribe input {
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    width: 250px;
+    height: 44px;
+    background: #151414;
+    padding-left: 15px;
+    margin-bottom: 10px;
+}
+
+.btn-primary-third {
+    font-family: 'Inter';
+    color: #FFFFFF;
+    background: #005FAC;
+    border-radius: 8px;
+    border: 0;
+    font-weight: 600;
+    font-size: 20px;
+    height: 50px;
+    padding: 0px 20px;
+}  /* Footer section End */
