@@ -41,7 +41,9 @@
     padding: 20px 25px;
     border-radius: 5px;
     border: 0;
-} /* Header Section End*/
+}
+
+/* Header Section End*/
 
 /* Main Section */
 
@@ -80,7 +82,9 @@ ul li {
 .fa-solid {
     color: #16D887;
     padding-right: 14px;
-}  /* Main Section End */
+}
+
+/* Main Section End */
 
 /* my-plan-section */
 
@@ -112,7 +116,9 @@ ul li {
     font-weight: 500;
     font-size: 18px;
     color: #737272;
-}  /* my-plan-section End */
+}
+
+/* my-plan-section End */
 
 /* my-blog section */
 
@@ -156,7 +162,9 @@ ul li {
     font-weight: 500;
     font-size: 18px;
     color: #737272;
-} /* my-blog sectionend */
+}
+
+/* my-blog sectionend */
 
 /* Contact section */
 
@@ -181,8 +189,8 @@ ul li {
     padding: 30px 0px 0px 40px;
 }
 
-.btn-primary-second{
-    
+.btn-primary-second {
+
     font-weight: 600;
     font-size: 20px;
     color: #005FAC;
@@ -192,7 +200,9 @@ ul li {
     margin-top: 20px;
     height: 50px;
     padding: 0 20px;
-} /* Contact section End */
+}
+
+/* Contact section End */
 
 /* Footer section */
 
@@ -204,7 +214,9 @@ ul li {
 }
 
 .Future img {
-    margin-left: 20px;
+    margin-left: 5px;
+    width: 30px;
+    height: 30px;
 }
 
 .future-tile {
@@ -248,4 +260,6 @@ ul li {
     font-size: 20px;
     height: 50px;
     padding: 0px 20px;
-}  /* Footer section End */
+}
+
+/* Footer section End */
